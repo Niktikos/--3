@@ -1,0 +1,6 @@
+pandas
+psutil
+pyspark
+pytest
+setuptools
+yapf
